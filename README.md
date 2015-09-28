@@ -1,6 +1,8 @@
 # 01 Tutorial My First Web Server 
 
-[![Build Status](https://travis-ci.org/keanodejs/01_tutorial_my_first_webserver.svg?branch=master)](https://travis-ci.org/keanodejs/01_tutorial_my_first_webserver) 
+[![Build Status](https://travis-ci.org/keanodejs/01_tutorial_my_first_webserver.svg?branch=master)](https://travis-ci.org/keanodejs/01_tutorial_my_first_webserver)
+
+[![NPM version][npm-image]][npm-url] 
 
 Link to the tutorial [here](http://nodejs.clbo.dk/tutorial-my-first-webserver/)
 
